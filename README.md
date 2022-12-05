@@ -2,7 +2,7 @@
 
 # Available endpoints
 
-# Summoner
+## Summoner
 
 # /lol/summoner/v4/summoners/by-name/{summonerName}
 
